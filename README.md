@@ -1,4 +1,4 @@
-# Open-source-information-for-a-paper  
+# Supporting information 
 It is a great honor to share my work! Open source information about the paper "A deep learning framework for inverse design of non-unique photonic structures:  DBSCAN-based quantitative analysis approach" can be found here.  
 Instructions:  
 1 About the code: The open source code is the code that I implement the algorithm in the paper. The code is dynamic, and by modifying some of the information, the same.py file can generate multiple test results. It is important to note that not every test result has a specific code corresponding to it, so you need to understand the logic of the code and modify the code accordingly according to the desired results.  
